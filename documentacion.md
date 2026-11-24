@@ -5,7 +5,6 @@
 - Estudiante: Hodaia Yemal
 - Tecnologías: HTML y CSS
 - Repositorio: https://github.com/2023hodaiayemal-netizen/landing-page
-- Documentación y evidencias: locales, sin Notion ni Moqups
 
 ## Sketch y planeamiento
 
