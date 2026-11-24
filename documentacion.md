@@ -21,4 +21,30 @@ Creá una landing responsive en español para “Órbita de Ideas”, sin JavaSc
 
 ## Pruebas y versiones
 
-Pendiente hasta implementar y verificar la página.
+| Versión | Cambio | Motivo |
+| --- | --- | --- |
+| v1 | Estructura semántica, hero, tarjetas, desplegable y estilos adaptables. | Implementación inicial basada en el sketch. |
+| v2 | Capturas más altas de escritorio y móvil. | Mostrar la composición completa en la evidencia. |
+
+Pruebas realizadas el 24/11/2026:
+
+- Navegación interna a Actividades y Cómo participar.
+- Desplegable nativo abierto con clic, Enter y Espacio.
+- Foco visible y enlace “Saltar al contenido”.
+- Ausencia de JavaScript.
+- Revisión a 320, 375, 768 y 1280 px sin desbordamiento horizontal.
+- Prueba estructural automatizada: `node --test tests/structure.test.js`.
+
+## Evidencias
+
+![Landing en escritorio](evidencias/landing-escritorio.png)
+
+![Landing en móvil](evidencias/landing-movil.png)
+
+## Estado
+
+- [x] Sketch editable y PNG
+- [x] Prompt registrado antes del código
+- [x] Landing sin JavaScript
+- [x] Interacción accesible
+- [x] Pruebas y capturas
