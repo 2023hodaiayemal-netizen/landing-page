@@ -8,7 +8,11 @@
 
 ## Sketch y planeamiento
 
-El sketch se creó antes del código y está disponible en `evidencias/sketch-landing.drawio` y `evidencias/sketch-landing.png`. Contiene vistas de escritorio y móvil, además de los estados cerrado y abierto del desplegable.
+El sketch se creó antes del código y está disponible en `evidencias/sketch-landing.png`. Contiene vistas de escritorio y móvil, además de los estados cerrado y abierto del desplegable.
+
+**Evidencia del editor:** captura auténtica del archivo abierto en diagrams.net/moqups.
+
+![Sketch abierto en el editor de moqups](evidencias/evidencia-moqups.png)
 
 Público: estudiantes secundarios que preparan exámenes en grupo. Objetivo: presentar el club y explicar cómo participar. La página usa fondo crema, texto azul tinta y acentos violeta, coral y menta.
 

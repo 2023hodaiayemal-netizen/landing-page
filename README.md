@@ -6,12 +6,14 @@ Landing educativa responsive para estudiantes secundarios. Presenta el club, sus
 
 - Estudiante: Hodaia Yemal
 - Tecnologías: HTML y CSS
-- Sketch local: [`evidencias/sketch-landing.drawio`](evidencias/sketch-landing.drawio)
+- Sketch local: [`evidencias/sketch-landing.png`](evidencias/sketch-landing.png)
 - Documentación completa: [`documentacion.md`](documentacion.md)
 
 ## Planeamiento
 
 El sketch se creó antes del código y contiene vistas de escritorio y móvil, además de los estados cerrado y abierto del desplegable. La interfaz usa fondo crema, texto azul tinta y acentos violeta, coral y menta.
+
+![Sketch abierto en el editor de moqups](evidencias/evidencia-moqups.png)
 
 ## Prompt utilizado
 
